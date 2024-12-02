@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98667639646",
+    "project_id": "keepgrowing-f3b9e",
+    "storage_bucket": "keepgrowing-f3b9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98667639646:android:c03561a5910d2138c495cf",
+        "android_client_info": {
+          "package_name": "com.example.keep_growing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAV7JGD8CnFZ5a_8-YFbF-A3-ZNSFkPWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
